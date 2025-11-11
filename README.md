@@ -56,20 +56,12 @@ For more information, setup instructions for other dev clients, and to post comm
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
+    <td align="center"><a href="http://github.com/saengland.png">
+        <img src="https://github.com/saengland.png" width="100px;" alt="Sam England"
 "/><br />
-        <sub><b> INSERT NAME HERE
+        <sub><b> Sam England
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
-    </td>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
-"/><br />
-        <sub><b>INSERT NAME HERE
-</b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
-    </td>
+            <a href="https://github.com/saengland.png" title="talk">📢</a> 
 </tr></table>
 
 
